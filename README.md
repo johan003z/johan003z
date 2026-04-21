@@ -6,7 +6,7 @@ I am a Software developer from  Colombia
 Passionate about technology and continuous learning. I enjoy creating practical solutions, constantly improving my skills, and adding value to every project I work on.
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Python, Java...
+Javascript, HTML, CSS, Python, Java....
 
 <p>
   <img src="https://skillicons.dev/icons?i=js" width="40">
