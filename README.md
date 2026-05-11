@@ -18,10 +18,10 @@ Javascript, HTML, CSS, Python, Java....
 </p>
 ## 📊 Lenguajes más usados
 
-![JavaScript](https://img.shields.io/badge/JavaScript-40%25-yellow)
-![HTML](https://img.shields.io/badge/HTML-30%25-orange)
-![CSS](https://img.shields.io/badge/CSS-20%25-blue)
-![Python](https://img.shields.io/badge/Python-10%25-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-30%25-yellow)
+![HTML](https://img.shields.io/badge/HTML-20%25-orange)
+![CSS](https://img.shields.io/badge/CSS-10%25-blue)
+![Python](https://img.shields.io/badge/Python-40%25-green)
 
 ## 🔧 Herramientas
 
